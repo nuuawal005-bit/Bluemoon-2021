@@ -1,5 +1,5 @@
 ## Introduction
-This document outlines the penetration‑testing exercise performed against the Bluemoon: 2021 virtual machine from VulnHub. The objective was to practice reconnaissance, exploitation, and privilege escalation techniques in a controlled environment using Kali Linux.
+This report presents the results of a penetration‑testing exercise conducted on the Bluemoon: 2021 virtual machine from VulnHub. The activity was carried out using Kali Linux as the attacker platform, with the objective of practicing reconnaissance, exploitation, and privilege escalation techniques in a controlled cybersecurity learning environment.
 
 ## Machine Details
 
