@@ -116,4 +116,5 @@ docker run
 ```
 - Escalated privileges to root.
 - Retrieved final flag:
-Fl4g{r00t-H4ckTh3P14n3t0nc34g41n}
+  
+```Fl4g{r00t-H4ckTh3P14n3t0nc34g41n}```
